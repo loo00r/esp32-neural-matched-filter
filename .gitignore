@@ -1,0 +1,11 @@
+# Cargo build artifacts (root workspace + firmware)
+target/
+
+# Generated experimental reports, CSVs, and plots
+results/
+
+# Compiled binaries & editor files
+*.elf
+.DS_Store
+*.swp
+*~
