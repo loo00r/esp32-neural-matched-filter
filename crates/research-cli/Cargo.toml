@@ -1,0 +1,9 @@
+[package]
+name = "research-cli"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Pure-Rust training, static INT8 quantization, evaluation, and ESP32 model exporter for Neural Matched Filter research"
+
+[dependencies]
+neural-filter-core = { path = "../neural-filter-core", features = ["std"] }

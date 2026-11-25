@@ -1,0 +1,14 @@
+/home/g00n3r/projects/Learn/thesis_year_2/firmware/esp32-benchmark/target/release/deps/serde-fbd1eadd80b9f219.d: /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/g00n3r/projects/Learn/thesis_year_2/firmware/esp32-benchmark/target/release/build/serde-b294865bcc9128bb/out/private.rs
+
+/home/g00n3r/projects/Learn/thesis_year_2/firmware/esp32-benchmark/target/release/deps/libserde-fbd1eadd80b9f219.rlib: /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/g00n3r/projects/Learn/thesis_year_2/firmware/esp32-benchmark/target/release/build/serde-b294865bcc9128bb/out/private.rs
+
+/home/g00n3r/projects/Learn/thesis_year_2/firmware/esp32-benchmark/target/release/deps/libserde-fbd1eadd80b9f219.rmeta: /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/g00n3r/projects/Learn/thesis_year_2/firmware/esp32-benchmark/target/release/build/serde-b294865bcc9128bb/out/private.rs
+
+/home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/g00n3r/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/g00n3r/projects/Learn/thesis_year_2/firmware/esp32-benchmark/target/release/build/serde-b294865bcc9128bb/out/private.rs:
+
+# env-dep:OUT_DIR=/home/g00n3r/projects/Learn/thesis_year_2/firmware/esp32-benchmark/target/release/build/serde-b294865bcc9128bb/out

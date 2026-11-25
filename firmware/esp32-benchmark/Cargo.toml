@@ -1,0 +1,25 @@
+[package]
+name = "esp32-benchmark"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Bare-metal ESP32-WROOM-32 hardware CCOUNT cycle & memory benchmark for Neural Matched Filtering"
+
+[features]
+default = ["bench-fp32"]
+# Include FP32 Conv1D weights and scratchpad for direct on-chip FP32 vs INT8 benchmarking.
+# Disable (`--no-default-features`) for minimal production INT8-only deployment footprint.
+bench-fp32 = []
+
+[dependencies]
+neural-filter-core = { path = "../../crates/neural-filter-core" }
+esp-hal = { version = "1.0.0", features = ["esp32"] }
+esp-bootloader-esp-idf = { version = "0.4.0", features = ["esp32"] }
+esp-println = { version = "0.13.1", default-features = false, features = ["esp32", "uart", "critical-section"] }
+xtensa-lx = "0.13.0"
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+codegen-units = 1
+debug = false

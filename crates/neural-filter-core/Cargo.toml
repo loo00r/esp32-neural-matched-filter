@@ -1,0 +1,10 @@
+[package]
+name = "neural-filter-core"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "no_std DSP and INT8/FP32 3-layer Conv1D Neural Matched Filter kernels for ESP32 IoT nodes"
+
+[features]
+default = []
+std = []
